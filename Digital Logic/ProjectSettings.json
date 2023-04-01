@@ -1,0 +1,34 @@
+{
+  "ProjectName": "Digital Logic",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2023-03-17T22:53:46.9381792-04:00",
+  "AllCreatedChips": [
+    "NAND",
+    "OR",
+    "NOR",
+    "XOR",
+    "XNOR",
+    "Buffer",
+    "Half-Adder",
+    "Full-Adder",
+    "8-Bit Adder",
+    "8-Bit ADD-SUB"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "NAND",
+    "OR",
+    "NOR",
+    "XOR",
+    "XNOR",
+    "Buffer",
+    "8-Bit Adder",
+    "8-Bit ADD-SUB"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 1,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 0
+  }
+}
