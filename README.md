@@ -18,5 +18,3 @@ Next is the Computer's Clock, which keeps everything in sync. Adding this to the
 is Synchronous witout a clock its Asyncronous.
 Then we Make Data Flip-Flops, and go up to a 1-Bit Register.
 Then combine those in to a 4-Bit Register which requires a Clock to function.
-Then we build up and up to 5 Bytes of Memory which is equaivelent to 40 1s and 0s.
-And to switch between which Byte of Memory to output we use a Multiplexier. A chip which will let us toggle between the outputs we feed into it.
