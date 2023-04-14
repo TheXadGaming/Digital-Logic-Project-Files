@@ -1,0 +1,46 @@
+{
+  "Name": "Buffer",
+  "Colour": "#5CCD6B",
+  "InputPins": [
+    {
+      "Name": "Input",
+      "ID": 2063518410,
+      "PositionY": 0.3333336,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Output",
+      "ID": 1630566569,
+      "PositionY": 0.2555555,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": [
+    {
+      "Source": {
+        "PinType": 1,
+        "SubChipID": 0,
+        "PinID": 2063518410
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 1630566569
+      },
+      "WirePoints": [
+        {
+          "X": -7.837778,
+          "Y": 0.3333336
+        },
+        {
+          "X": 7.837778,
+          "Y": 0.2555555
+        }
+      ],
+      "ColourThemeName": "Red"
+    }
+  ]
+}
