@@ -18,3 +18,8 @@ Next is the Computer's Clock, which keeps everything in sync. Adding this to the
 is Synchronous witout a clock its Asyncronous.
 Then we Make Data Flip-Flops, and go up to a 1-Bit Register.
 Then combine those in to a 4-Bit Register which requires a Clock to function.
+
+#Video 4: RAM & ALU:
+In the fourth video go into how to build 16-Bytes of RAM or 128 1s and 0s of Memory.
+And how to build an Arithmetic and Logic Unit which can do Addition, Subtraction, Incrementation, Decrementation
+AND, OR, XOR, and, NOT.
