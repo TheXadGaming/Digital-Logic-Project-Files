@@ -1,0 +1,52 @@
+{
+  "ProjectName": "Digital Logic",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2023-03-17T22:53:46.9381792-04:00",
+  "AllCreatedChips": [
+    "NAND",
+    "OR",
+    "NOR",
+    "XOR",
+    "XNOR",
+    "Buffer",
+    "Half-Adder",
+    "Full-Adder",
+    "8-Bit Adder",
+    "8-Bit ADD-SUB",
+    "SR-Latch",
+    "D-Latch",
+    "4-Bit Register",
+    "D-Flip Flop",
+    "1-Bit Register",
+    "1-Byte RAM",
+    "4-Byte RAM",
+    "Bus Buffer",
+    "16-Byte RAM",
+    "Binary 4-16",
+    "AND4",
+    "OR4",
+    "Arithmatic Unit",
+    "Logic Unit",
+    "Flag Unit",
+    "ALU",
+    "CPU"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "NAND",
+    "OR",
+    "NOR",
+    "XOR",
+    "XNOR",
+    "Buffer",
+    "16-Byte RAM",
+    "ALU",
+    "CPU"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 0,
+    "SubChipPinNameDisplayMode": 1,
+    "ShowCursorGuide": 0
+  }
+}
